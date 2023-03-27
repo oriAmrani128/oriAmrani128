@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ori Amrani</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oriamrani128&label=Profile%20views&color=0e75b6&style=flat" alt="oriamrani128" /> </p>
-
 - 🌱 I’m currently learning **sql**
 
 - 💬 Ask me about **c,c++,javascript,Html,Css**
