@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ori Amrani</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
-<img src="![b2325557a903fdf56b50da4656da9221-min](https://user-images.githubusercontent.com/121358023/227921472-de94bd82-fbfb-4eda-9f38-147b5fac5c9e.gif)
-" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/121358023/227921472-de94bd82-fbfb-4eda-9f38-147b5fac5c9e.gif"
+ width="400px" align="right">
 
 - 🌱 I’m currently learning **sql**
 
