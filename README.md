@@ -24,6 +24,7 @@ DevOps Engineer specializing in cloud infrastructure and automation. Passionate 
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+
 ## 🛠️ Key Skills
 - **Cloud Platforms:** AWS (EKS, ECR, VPC, EC2, S3)
 - **Infrastructure as Code:** Terraform, ansible
