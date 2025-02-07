@@ -9,19 +9,12 @@ DevOps Engineer specializing in cloud infrastructure and automation. Passionate 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/GitOps-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/VCS-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Config-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 
 ## 🛠️ Key Skills
